@@ -1,9 +1,8 @@
-* {
-    font-family: Verdana, "DejaVu Sans", sans-serif;
-}
+
 
 .header-odd {
     background-color: rgb(250, 152, 152);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
     font-size: 36px;
 }
 
