@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.header-odd {
+    background-color: rgb(250, 152, 152);
+    font-size: 36px;
+}
+
+.bigger-font {
+    font-size: 48px;
+}
+
+#header-two {
+    color: rgb(0, 0, 255);
+    font-size: 72px;
+}
+
+#header-four {
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
